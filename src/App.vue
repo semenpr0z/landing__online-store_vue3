@@ -20,6 +20,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Satoshi', sans-serif;
+    font-size: 16px;
 }
 
 .container{
