@@ -1,10 +1,12 @@
 <script setup>
     import Header from './components/layout/Header.vue'
+    import Hero from './components/Hero.vue'
 </script>
 
 <template>
     <div class="container">
         <Header></Header>
+        <Hero></Hero>
     </div>
 </template>
 
@@ -21,6 +23,11 @@ body{
     padding: 0;
     font-family: 'Satoshi', sans-serif;
     font-size: 16px;
+    color: #22202E;
+}
+
+img{
+    max-width: 100%;
 }
 
 .container{
