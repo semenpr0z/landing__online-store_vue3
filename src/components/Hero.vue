@@ -1,6 +1,5 @@
 <template>
     <div class="hero">
-        
         <div class="hero-info">
             <div class="hero-info-text">
                 <h2 class="hero-info__title">Luxury homeware for people who love timeless design quality</h2>

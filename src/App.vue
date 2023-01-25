@@ -1,12 +1,14 @@
 <script setup>
     import Header from './components/layout/Header.vue'
-    import Hero from './components/Hero.vue'
+    import Hero from './components/Hero.vue'    
+    import AboutBrand from './components/AboutBrand.vue';
 </script>
 
 <template>
     <div class="container">
         <Header></Header>
         <Hero></Hero>
+        <AboutBrand></AboutBrand>
     </div>
 </template>
 
